@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.14/MicrosoftTeams.schema.json",
   "manifestVersion": "1.14",
   "version": "1.0.0",
-  "id": "verzuol1-ms-teams",
+  "id": "a0def6ab-34af-488a-bfa5-345c40f61b2b",
   "packageName": "app.vercel.ms-teams-omega",
   "name": {
     "short": "MS Teams App Test",
