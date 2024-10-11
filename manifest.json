@@ -1,0 +1,37 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.14/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.14",
+  "version": "1.0.0",
+  "id": "verzuol1-ms-teams",
+  "packageName": "app.vercel.ms-teams-omega",
+  "name": {
+    "short": "MS Teams App Test",
+    "full": "MS Teams App Test full"
+  },
+  "description": {
+    "short": "Short description of your MS Teams app",
+    "full": "Full description of your MS Teams app"
+  },
+  "icons": {
+    "outline": "msteams_32.png",
+    "color": "msteams_192.png"
+  },
+  "developer": {
+    "name": "Oleg Verzunov",
+    "websiteUrl": "https://ms-teams-omega.vercel.app",
+    "privacyUrl": "https://ms-teams-omega.vercel.app",
+    "termsOfUseUrl": "https://ms-teams-omega.vercel.app"
+  },
+  "accentColor": "#FFFFFF",
+  "staticTabs": [
+    {
+      "entityId": "tab1",
+      "name": "React App Tab",
+      "contentUrl": "https://ms-teams-omega.vercel.app",
+      "websiteUrl": "https://ms-teams-omega.vercel.app",
+      "scopes": ["personal"]
+    }
+  ],
+  "permissions": ["identity", "messageTeamMembers"],
+  "validDomains": ["ms-teams-omega.vercel.app"]
+}
