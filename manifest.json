@@ -33,5 +33,5 @@
     }
   ],
   "permissions": ["identity", "messageTeamMembers"],
-  "validDomains": ["ms-teams-omega.vercel.app"]
+  "validDomains": ["d4hsb59hrm8w7.cloudfront.net"]
 }
