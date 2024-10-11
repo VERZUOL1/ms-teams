@@ -18,17 +18,17 @@
   },
   "developer": {
     "name": "Oleg Verzunov",
-    "websiteUrl": "https://ms-teams-omega.vercel.app",
-    "privacyUrl": "https://ms-teams-omega.vercel.app",
-    "termsOfUseUrl": "https://ms-teams-omega.vercel.app"
+    "websiteUrl": "https://d4hsb59hrm8w7.cloudfront.net/login",
+    "privacyUrl": "https://d4hsb59hrm8w7.cloudfront.net/login",
+    "termsOfUseUrl": "https://d4hsb59hrm8w7.cloudfront.net/login"
   },
   "accentColor": "#FFFFFF",
   "staticTabs": [
     {
       "entityId": "tab1",
       "name": "React App Tab",
-      "contentUrl": "https://ms-teams-omega.vercel.app",
-      "websiteUrl": "https://ms-teams-omega.vercel.app",
+      "contentUrl": "https://d4hsb59hrm8w7.cloudfront.net/login",
+      "websiteUrl": "https://d4hsb59hrm8w7.cloudfront.net/login",
       "scopes": ["personal"]
     }
   ],
